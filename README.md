@@ -1,3 +1,4 @@
+#sudo su 
 # Tools for authoring and serving codelabs
 
 Codelabs are interactive instructional tutorials, which can be authored in Google Docs
